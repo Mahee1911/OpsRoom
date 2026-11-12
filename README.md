@@ -8,7 +8,7 @@ The project started as a Discord-style communication application and evolved int
 
 A full project demonstration is available here:
 
-[Watch the OpsRoom demo]()
+[Watch the OpsRoom demo](https://github.com/Mahee1911/OpsRoom/releases/tag/v1.0.0)
 
 ## What OpsRoom Supports
 
